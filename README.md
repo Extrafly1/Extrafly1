@@ -1,5 +1,5 @@
 
-<div style = "font-size: 5em, font-weight: bold, color: #4A90E2, border: 5px solid #4A90E2, padding: 20px, border-radius: 15px, box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3), background-color: white;">Extrafly1</div>
+<div style = "font-size: 5em; font-weight: bold; color: #4A90E2; border: 5px solid #4A90E2; padding: 20px; border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); background-color: white;">Extrafly1</div>
 
 ```
 ██╗  ██╗██╗       ██╗███╗   ███╗
