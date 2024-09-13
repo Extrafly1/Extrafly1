@@ -44,7 +44,7 @@
 Добро пожаловать в мой профиль на GitHub! Я увлеченный разработчик, который любит создавать различные проекты и изучать новые технологии. Здесь вы найдете мои репозитории, в которых я делюсь своими знаниями и идеями.
 
 ## 📊 Статистика
-https://github-readme-stats.vercel.app/api?username=Extrafly1&show_icons=true&hide_title=true&count_private=true&theme=radical
+[stat](https://github-readme-stats.vercel.app/api?username=Extrafly1&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🌟 Мои проекты
 
