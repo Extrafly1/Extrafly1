@@ -1,39 +1,29 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Оформление имени</title>
-    <style>
+
+    
+<body>
+    <div class="name">Extrafly1</div>
+</body>
+<style>
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background: #fff;
-            font-family: 'Arial', sans-serif;
+            background: #e0e0e0;
+            font-family: Arial, sans-serif;
         }
         .name {
-            font-size: 4em;
+            font-size: 5em;
             font-weight: bold;
-            color: #FF5733;
-            animation: glow 1.5s infinite alternate;
-        }
-
-        @keyframes glow {
-            0% {
-                text-shadow: 0 0 10px #FF5733, 0 0 20px #FF5733, 0 0 30px #FF5733;
-            }
-            100% {
-                text-shadow: 0 0 20px #FF5733, 0 0 30px #FF5733, 0 0 40px #FF5733;
-            }
+            color: #4A90E2;
+            border: 5px solid #4A90E2;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+            background-color: white;
         }
     </style>
-</head>
-<body>
-    <div class="name">Extrafly1</div>
-</body>
-</html>
+
 
 
 ```
