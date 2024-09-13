@@ -1,14 +1,6 @@
 
 <div class="name">Extrafly1</div>
 <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background: #e0e0e0;
-            font-family: Arial, sans-serif;
-        }
         .name {
             font-size: 5em;
             font-weight: bold;
@@ -19,7 +11,7 @@
             box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
             background-color: white;
         }
-    </style>
+</style>
 
 
 
