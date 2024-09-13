@@ -46,7 +46,6 @@
 ## 📊 Статистика
 ![stat](https://github-readme-stats.vercel.app/api?username=Extrafly1&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Extrafly1&layout=compact&theme=radical)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Extrafly1.Extrafly1)
 
 ## 🌟 Мои проекты
 
