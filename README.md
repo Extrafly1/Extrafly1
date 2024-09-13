@@ -1,8 +1,5 @@
 
-    
-<body>
-    <div class="name">Extrafly1</div>
-</body>
+<div class="name">Extrafly1</div>
 <style>
         body {
             display: flex;
