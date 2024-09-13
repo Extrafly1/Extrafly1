@@ -1,4 +1,4 @@
-<h1 style="text-align:center; font-size: 4em; background: linear-gradient(90deg, #FF5733, #FFC300); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Extrafly1</h1>
+<h1 style="text-align:center; font-size: 4em; color: #4A90E2; border: 5px solid #4A90E2; padding: 20px; border-radius: 15px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); background-color: white;">Extrafly1</h1>
 
 ```
 ██╗  ██╗██╗       ██╗███╗   ███╗
