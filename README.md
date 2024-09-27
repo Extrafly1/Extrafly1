@@ -23,7 +23,7 @@
 
 Вот некоторые из моих проектов, которые могут вас заинтересовать:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=paterns-project)](https://github.com/anuraghazra/github-readme-stats)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=paterns-project)](https://github.com/Extrafly1/paterns-project/settings)
 - тут тоже лень
 - [а тут вообще лень](https://github.com/Extrafly1)
 
