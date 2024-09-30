@@ -11,28 +11,39 @@
 ██╔══╝   ██╔██╗    ██║   ██╔══██╗██╔══██║██╔══╝  ██║    ╚██╔╝   ██║
 ███████╗██╔╝ ██╗   ██║   ██║  ██║██║  ██║██║     ███████╗██║    ██║
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝    ╚═╝
-```                                                                 
+```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines===========+my+awards+==========)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Extrafly1)](https://github.com/Extrafly1/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines================================)](https://git.io/typing-svg)
+
 > [!NOTE]  
 > Добро пожаловать в мой профиль на GitHub! Я увлеченный разработчик, который любит создавать различные проекты и изучать новые технологии. Здесь вы найдете мои репозитории, в которых я делюсь своими знаниями и идеями.
 
 ## 📊 Статистика
-![stat](https://github-readme-stats.vercel.app/api?username=Extrafly1&show_icons=true&hide_title=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Extrafly1&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Extrafly1&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Extrafly1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Extrafly1&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Extrafly1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Extrafly1&theme=solarized_dark)
+
+[![codewars](https://www.codewars.com/users/Extrafly1/badges/large)](https://www.codewars.com/users/Extrafly1)
 
 ## 🌟 Мои проекты
 
 Вот некоторые из моих проектов, которые могут вас заинтересовать:
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=paterns-project)](https://github.com/Extrafly1/paterns-project)
-- тут тоже лень
-- [а тут вообще лень](https://github.com/Extrafly1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=paterns-project)](https://github.com/Extrafly1/paterns-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=ASCII-art-generator-cpp)](https://github.com/Extrafly1/ASCII-art-generator-cpp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=website-with-floating-windows)](https://github.com/Extrafly1/website-with-floating-windows)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Extrafly1&repo=web-display-for-a-store)](https://github.com/Extrafly1/web-display-for-a-store)
 
 ## 💻 Технологии и инструменты
 
 Я работаю с различными языками программирования и технологиями, включая:
 
 - **Языки программирования**: Ruby, Python, JavaScript, C#, C++, ASM
-- **Фреймворки**: НЕ СКАЖУ)
 - **Инструменты**: Git, Docker, VS Code, VS
 
 ## 🚀 Как начать
@@ -56,7 +67,7 @@
    pip install -r requirements.txt  # для Python
    npm install  # для Node.js
 ```
-`для остальных языков лень писать`
+`для остальных языков есть google`
 
 > [!CAUTION]
 > ИСПОЛЬЗОВАТЬ НА СВОЙ СТРАХ И РИСК, НЕКОТОРЫЕ ПРОЕКТЫ ЯВЛЯЮТСЯ ВИРУСАМИ!!! хоть и сломаными и не рабочими.
@@ -89,3 +100,4 @@
 ---
 > [!TIP]
 > Спасибо, что заглянули в мой профиль! Надеюсь, вам понравится то, что вы увидите! 😊
+
