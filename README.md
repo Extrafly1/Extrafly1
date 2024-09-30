@@ -25,7 +25,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Extrafly1&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Extrafly1&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/Extrafly1/badges/large)](https://www.codewars.com/users/Extrafly1)
 
 ## 🌟 Мои проекты
 
